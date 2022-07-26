@@ -1,0 +1,24 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is our first node app as Enyata Academy Students",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Enyata",
+    "Academy",
+    "Nodejs",
+    "Hurray!!"
+  ],
+  "author": "All of us",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
