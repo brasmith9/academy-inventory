@@ -29,4 +29,23 @@ const users = [
   },
 ];
 
-export { users };
+const products = [
+  {
+    id: 1,
+    name: "Banku",
+    price: 2.5
+  },
+  {
+    id: 2,
+    name: "Rice",
+    price: 29.5
+  },
+  {
+    id: 3,
+    name: "Konkonte",
+    price: 0.5
+  },
+]
+
+const category = ["detergent", "beverage"];
+export { users, products, category };
